@@ -1,0 +1,19 @@
+
+main:
+  - title: "Home"
+    url: /
+
+  - title: "AI Study"
+    url: /ai-study/
+
+  - title: "Development"
+    url: /development/
+
+  - title: "Service Planning"
+    url: /service-planning/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "About"
+    url: /about/
