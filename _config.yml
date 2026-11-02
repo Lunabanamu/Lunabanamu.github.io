@@ -1,0 +1,30 @@
+
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
+
+minimal_mistakes_skin: "air"
+
+locale: "ko-KR"
+title: "Lunabanamu | AI Product Journal"
+title_separator: "-"
+subtitle: "AI 기술과 서비스 기획을 기록하는 공간"
+
+name: "Lunabanamu"
+description: "AI 기술 학습, 개발 실습, 서비스 기획 및 프로젝트 아카이브"
+url: "https://lunabanamu.github.io"
+baseurl: ""
+repository: "Lunabanamu/Lunabanamu.github.io"
+
+search: true
+markdown: kramdown
+permalink: /:categories/:title/
+
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "Lunabanamu"
+  bio: "AI 기술을 이해하고 서비스를 설계하는 과정을 기록합니다."
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Lunabanamu"
