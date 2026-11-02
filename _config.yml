@@ -19,7 +19,9 @@ markdown: kramdown
 permalink: /:categories/:title/
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-include-cache
+  
 
 author:
   name: "Lunabanamu"
