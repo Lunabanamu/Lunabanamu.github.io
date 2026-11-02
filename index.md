@@ -1,9 +1,9 @@
----
+"""
 layout: single
 title: "AI Product Journal"
 permalink: /
 author_profile: true
----
+"""
 
 # Welcome to My Journal
 
