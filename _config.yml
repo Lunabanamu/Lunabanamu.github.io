@@ -25,7 +25,7 @@ plugins:
 
 author:
   name: "Lunabanamu"
-  bio: "AI 기술을 이해하고 서비스를 설계하는 과정을 기록합니다."
+  bio: "AI 기술을 이해 및 서비스를 설계 과정 기록 공간"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
